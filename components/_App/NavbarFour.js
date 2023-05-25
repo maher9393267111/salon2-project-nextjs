@@ -330,6 +330,12 @@ const NavbarFour = () => {
                                                     Get A Quote
                                                 </a>
                                             </Link>
+
+                                            <Link href="/contact">
+                                                <a className="default-btn">
+                                                    Get A Quote
+                                                </a>
+                                            </Link>
                                         </div>
                                     </div>
                                 </div>

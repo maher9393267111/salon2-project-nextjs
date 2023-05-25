@@ -56,6 +56,14 @@ This files table contents are outlined below >>>>>
 /*
 Default Style
 ============================*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 body {
   padding: 0;
   margin: 0;
